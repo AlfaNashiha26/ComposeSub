@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ListFilm, By. Alfa</string>
+    <string name="search_series">Temukan Film Kesukaaan Anda</string>
+    <string name="about_developer">About Me</string>
+    <string name="developer_name">Alfa Nashiha</string>
+    <string name="developer_origin">alfanashiha79@gmail.com</string>
+    <string name="birthdate">Tanggal / Lahir</string>
+    <string name="dev_birthdate">26<font size="10"> Oktober </font> 2003</string>
+    <string name="institution">Asal Univ</string>
+    <string name="dev_institution">Universitas Muhammadiyah Cirebon</string>
+    <string name="major">Jurusan</string>
+    <string name="dev_major">S1 Teknik Informatika</string>
+    <string name="email">Semester</string>
+    <string name="dev_email">Tujuh</string>
+    <string name="Linkedin">Linkedin</string>
+    <string name="dev_linkedin">Alfa Nashiha</string>
+    <string name="github">Github</string>
+    <string name="dev_github">github.com/AlfaNashiha26</string>
+    <string name="instagram">Instagram</string>
+    <string name="dev_instagram">instagram.com/alfa.nashiha_</string>
+    <string name="series_detail">Detail Film</string>
+    <string name="genre">Genre: %s</string>
+    <string name="year">Rilis: %s</string>
+    <string name="rating">Rating: %s</string>
+    <string name="synopsis">Sinopsis:</string>
+</resources>
